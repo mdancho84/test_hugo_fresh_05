@@ -7,4 +7,6 @@ include_cta = true
 title = "How I broke into data science consulting"
 
 +++
-I wanted to share a short post about how I broke into data science consulting. 
+I wanted to share a short post about how I broke into data science consulting...
+
+(actually, I'm just testing out Forestry.io integration)
