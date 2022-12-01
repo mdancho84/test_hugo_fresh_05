@@ -1,4 +1,4 @@
-baseURL: http://business-science.io/
+baseURL: https://forecast-science.netlify.app/
 languageCode: en-us
 title: Forecast Science
 theme: "hugo-fresh-data-science"
