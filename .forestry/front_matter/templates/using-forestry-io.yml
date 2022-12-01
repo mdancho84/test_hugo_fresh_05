@@ -1,0 +1,21 @@
+---
+label: Using forestry.io
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: author
+  label: author
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: image
+  label: image
+- type: boolean
+  name: include_cta
+  label: include_cta
+pages:
+- content/blog/my-first-blog-post.md
